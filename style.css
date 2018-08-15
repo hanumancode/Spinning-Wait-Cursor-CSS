@@ -12,6 +12,7 @@ body {
     height: 100px;
     background: #000;
     border-radius: 50%;
+    overflow: hidden;
 }
 
 .spinner span {
