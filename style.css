@@ -83,3 +83,12 @@ body {
     background: #fea503;
     border-radius: 50%;
 }
+
+@keyframes animate {
+    0% {
+        transform: translate(-50%, 50%) rotate(359deg);
+    }
+    100% {
+        transform: translate(-50%, 50%) rotate(0deg);
+    }
+}
