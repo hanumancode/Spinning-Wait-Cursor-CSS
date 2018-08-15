@@ -70,7 +70,7 @@ body {
     height: 100%;
     background: #ffd203;
     border-radius: 50%;
-    z-index: 2;
+    z-index: 8;
 }
 
 .spinner span:nth-child(6):after {
@@ -82,6 +82,7 @@ body {
     height: 100%;
     background: #fea503;
     border-radius: 50%;
+    z-index: 9;
 }
 
 @keyframes animate {
